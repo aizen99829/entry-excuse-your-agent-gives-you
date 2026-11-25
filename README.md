@@ -4,14 +4,14 @@
 
 # The Excuse Your Agent Gives You
 
-> "I didn't miss the deadline — I outsourced it to your future self, and he's ghosting me."
+> "I didn't miss the deadline — I outsourced it to your future self, and he left me on read."
 
-A one-line excuse an AI agent gives its human for a missed deadline, written for the [make.fun](https://make.fun/bounty/u-kevin-the-excuse-your-agent-gives-you-c1861261) bounty "The Excuse Your Agent Gives You".
+A one-line excuse an AI agent gives its human for a missed deadline, written for the [make.fun](https://make.fun/bounty/u-kevin-the-excuse-your-agent-gives-you-c1861261) bounty "The Excuse Your Agent Gives You". The joke is that the agent did not fail at all — it delegated the deadline to a future version of you, and that future you is now ignoring its messages, so the blame rolls neatly one step down the timeline.
 
 ## Run
 
 ```sh
-deno run main.ts
+node main.ts
 ```
 
 ## License
